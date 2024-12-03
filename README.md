@@ -1,6 +1,6 @@
 # W3C Service Workers Working Group
 
-https://www.w3.org/sw/
+https://www.w3.org/groups/wg/service-workers/
 
 ## Specifications
 
